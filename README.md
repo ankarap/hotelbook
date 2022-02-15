@@ -1,1 +1,1 @@
-# hotelbook
+# тренировка верски макета "Figma" hotelbook
